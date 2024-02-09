@@ -1,4 +1,4 @@
-# História da Internet e Mais Tecnologias
+# Exemplo de Blog em HTML puro feito em um curso da DIO.
 
 Este repositório contém uma página HTML que aborda a história da internet e algumas de suas tecnologias mais importantes.
 
