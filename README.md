@@ -1,19 +1,30 @@
-# Exemplo de Blog em HTML puro feito em um curso da DIO.
+# Desafio de Projeto: Construção de um Site para Clínica Médica 🏥
 
-Este repositório contém uma página HTML que aborda a história da internet e algumas de suas tecnologias mais importantes.
+## Objetivo:
+Desenvolver um site para uma clínica médica fictícia com funcionalidades básicas, utilizando HTML, CSS e outros recursos aprendidos.
 
-## Conteúdo
+## Estrutura do Site:
+O site deverá ter as seguintes páginas:
 
-A página HTML está estruturada em três seções principais:
+1. **Página Principal** 🏠
+2. **Sobre a Clínica** ℹ️
+3. **Horário de Atendimento** 🕒
+4. **Contato** 📞
 
-1. **Introdução**: Uma introdução à história da internet, destacando marcos importantes e desenvolvimentos ao longo do tempo.
-2. **HTML**: Uma seção dedicada à linguagem HTML, sua importância na criação de páginas web e sua evolução ao longo do tempo.
-3. **Futuro da Internet**: Uma discussão sobre as tendências e possibilidades para o futuro da internet, incluindo expansão da conectividade global, tecnologias emergentes e considerações de segurança e privacidade.
+## Funcionalidades:
 
-## Como Utilizar
+- **Página Principal:** Breve descrição sobre a clínica médica.
+- **Sobre a Clínica:** Informações detalhadas sobre a clínica.
+- **Horário de Atendimento:** Horários de funcionamento e serviços oferecidos.
+- **Contato:** Formulário de contato, telefone, endereço e mapa de localização.
 
-Para visualizar a página, basta abrir o arquivo `index.html` em qualquer navegador web moderno.
+## Tecnologias Utilizadas:
+- HTML
+- CSS
 
-## Autor
+## Estrutura das Páginas:
+- Cada página terá um layout semelhante com menu de navegação, cabeçalho, conteúdo e rodapé.
+- 
+---
 
-Este projeto foi desenvolvido por [Daiane Nicolau](https://github.com/DaianeWeb.
+Este é um desafio de projeto divertido para aplicar seus conhecimentos de HTML e CSS na criação de um site para uma clínica médica fictícia. Divirta-se criando e explorando suas habilidades! 🚀👩‍⚕️👨‍⚕️
