@@ -28,3 +28,17 @@ O site deverá ter as seguintes páginas:
 ---
 
 Este é um desafio de projeto divertido para aplicar seus conhecimentos de HTML e CSS na criação de um site para uma clínica médica fictícia. Divirta-se criando e explorando suas habilidades! 🚀👩‍⚕️👨‍⚕️
+
+
+
+📄 Página HTML Semelhante à Wikipedia
+Este é um projeto de uma página HTML inspirada no estilo da Wikipedia. A página foi criada com o objetivo de demonstrar como desenvolver uma estrutura semelhante à da Wikipedia usando HTML e CSS.
+
+Conteúdo do Projeto
+index.html: O arquivo HTML principal que contém a estrutura da página, incluindo cabeçalho, seções de conteúdo e rodapé.
+assets/: Pasta contendo recursos como imagens e folha de estilo CSS.
+css/style.css: Folha de estilo que define a aparência da página.
+images/: Pasta contendo imagens utilizadas na página, como o logo da Wikipedia e outras ilustrações.
+🎨🖼️📝
+
+Criado por Daiane Nicolau. 🚀
